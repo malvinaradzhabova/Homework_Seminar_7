@@ -55,6 +55,8 @@ PrintArray(numbers);
 8 4 2 4
 17 -> такого числа в массиве нет */
 
+
+
 /* 
 Console.WriteLine("Введите номер строки: ");
 int NumberOfRow = Convert.ToInt32(Console.ReadLine());
